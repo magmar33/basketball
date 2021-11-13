@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basquetball</string>
+    <string name="local">Local</string>
+    <string name="visitante">Visitante</string>
+    <string name="local_vs_visitor">local_vs_visitor</string>
+    <string name="local_vs_visitante">local_vs_visitante</string>
+</resources>
